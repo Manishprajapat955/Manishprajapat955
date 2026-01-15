@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Manish Prajapat</h1>
+<h1 align="center">Hi , I'm Manish Prajapat</h1>
 <h3 align="center">Proficient in Core Java with expertise in OOP principles (inheritance, polymorphism, encapsulation), Java Collections Framework, exception handling, and multithreading. Skilled in Java, JDBC, and Java 8 features. Strong understanding of JVM architecture, garbage collection, annotations, and design patterns like Singleton and Factory. Experienced in using abstraction, interfaces, and generics for scalable, maintainable code.</h3>
 
-- 🌱 I’m currently learning **Java Full Stack Development**
+- 🌱 I’m currently looking for an opportunity in **Data Science and Analytics**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14gc9SH-fGYciLI6NaF-LoDE4FbhqO13a/view?usp=sharing](https://drive.google.com/file/d/14gc9SH-fGYciLI6NaF-LoDE4FbhqO13a/view?usp=sharing)
 
